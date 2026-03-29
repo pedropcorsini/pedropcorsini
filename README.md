@@ -1,4 +1,4 @@
-## Hi 👋, I'm Pedro Passos Corsini
+# Hi 👋, I'm Pedro Passos Corsini
 
 
 🚀 **Software Engineering Student | Python • SQL • AI • CSS • JavaScript**
@@ -49,8 +49,8 @@ Always learning, always building — aiming to turn knowledge into real impact.
 ## 📊 GitHub Stats
 
 <p align="left">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=pedropcorsini&show_icons=true&theme=tokyonight&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedropcorsini&layout=compact&theme=tokyonight" />
+  <img height="170" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=pedropcorsini&show_icons=true&theme=tokyonight" />
+  <img height="170" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=pedropcorsini&layout=compact&theme=tokyonight" />
 </p>
 
 ---
