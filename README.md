@@ -47,9 +47,13 @@ Always learning, always building — aiming to turn knowledge into real impact.
 
 ## 📊 GitHub Stats
 
-<p align="left">
+<!-- <p align="left">
   <img height="170" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=pedropcorsini&show_icons=true&theme=tokyonight" />
   <img height="170" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=pedropcorsini&layout=compact&theme=tokyonight" />
+</p> -->
+
+<p align="left">
+  <!-- remover os cards por enquanto -->
 </p>
 
 ---
