@@ -25,7 +25,6 @@ Always learning, always building — aiming to turn knowledge into real impact.
     <a href="https://instagram.com/pedrocrps">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-  </a>
     <a href="https://www.linkedin.com/in/pedropassoscorsini/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIUn&logoColor=white" />
   </a>
@@ -47,9 +46,12 @@ Always learning, always building — aiming to turn knowledge into real impact.
 ![Python](https://img.shields.io/badge/Python-38BDF8?style=for-the-badge&logo=Python&logoColor000)
 
 ## 📊 GitHub Stats
+
 <p align="left">
-  <!-- remover os cards por enquanto -->
+  <img height="170" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=pedropcorsini&show_icons=true&theme=tokyonight" />
+  <img height="170" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=pedropcorsini&layout=compact&theme=tokyonight" />
 </p>
+
 ---
 
 ## 🚀 Philosophy
