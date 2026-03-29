@@ -47,12 +47,9 @@ Always learning, always building — aiming to turn knowledge into real impact.
 ![Python](https://img.shields.io/badge/Python-38BDF8?style=for-the-badge&logo=Python&logoColor000)
 
 ## 📊 GitHub Stats
-
 <p align="left">
-  <img height="170" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=pedropcorsini&show_icons=true&theme=tokyonight" />
-  <img height="170" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=pedropcorsini&layout=compact&theme=tokyonight" />
+  <!-- remover os cards por enquanto -->
 </p>
-
 ---
 
 ## 🚀 Philosophy
