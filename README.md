@@ -5,9 +5,9 @@
 
 I’m focused on **building real solutions, not just studying theory.**
 
-Currently developing projects with **Python, SQL, JavaScript and AI concepts**, applying problem-solving, logic, and system thinking in practice. My goal is to evolve fast through hands-on work and deliver clean, efficient, and scalable code.**
+Currently developing projects with ** Python, SQL, JavaScript and AI concepts**, applying problem-solving, logic, and system thinking in practice. My goal is to evolve fast through hands-on work and deliver clean, efficient, and scalable code.
 
-I’m particularly interested in:
+I’m particularly interested in: 
 - **Backend development**
 - **Data and databases**
 - **AI and automation**
