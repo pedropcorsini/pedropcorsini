@@ -45,16 +45,16 @@ Always learning, always building — aiming to turn knowledge into real impact.
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=000)
 ![Python](https://img.shields.io/badge/Python-38BDF8?style=for-the-badge&logo=Python&logoColor000)
 
-## 📊 GitHub Stats
+<!-- ## 📊 GitHub Stats <!--
 
-<p align="left">
+<!-- <p align="left">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=pedropcorsini&show_icons=true&theme=tokyonight" />
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedropcorsini&layout=compact&theme=tokyonight" />
-</p>
+</p> -->
 
-<p align="left">
+<!-- <p align="left">
   <!-- remover os cards por enquanto -->
-</p>
+<!-- </p> -->
 
 ---
 
