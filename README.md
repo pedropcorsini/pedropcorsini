@@ -62,14 +62,11 @@ Uso **Inteligência Artificial** e **Automação** como parte do meu fluxo de tr
 
 ---
 
-<!-- ### 📊 GitHub Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pedropcorsini-v&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=ffffff&icon_color=58a6ff&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pedropcorsini-v&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=ffffff&langs_count=6)
-
-</div> -->
+## 📊 GitHub Stats
+<p align="center">
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=pedropcorsini&theme=dark" />
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=pedropcorsini&theme=dark" />
+</p>
 
 <!-- --- -->
 
