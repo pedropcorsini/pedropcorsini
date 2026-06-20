@@ -15,14 +15,11 @@ São Paulo, SP - Brasil
 
 ---
 
-### Sobre mim
+Estudante de Engenharia de Software na **FIAP**, 2º semestre, construindo na prática desde o primeiro dia.
 
-Estudante de Engenharia de Software na **FIAP**, 2º semestre, construindo projetos reais enquanto aprendo.
+Trabalho no **Frontend** com **React**, **Vite**, **TypeScript**, **Tailwind**, **JavaScript**, **HTML** e **CSS**, e no **Backend** com **Python**, **Java**, **Supabase** e **SQLite**, sempre buscando entender o sistema como um todo, não só uma camada dele. Atualmente também estou me aprofundando em **Docker**, **Kubernetes** e **AWS**, expandindo minha visão para infraestrutura e deploy em escala.
 
-Não acredito em esperar estar "pronto" para começar. Meu primeiro projeto real já está no ar, construído com **React**, **Vite**, **Tailwind**, **JavaScript**, **HTML** e **CSS**, e continuo aprofundando o conhecimento pela **Alura** enquanto desenvolvo.
-
-Utilizo **Inteligência Artificial** e **Automação** como parte do meu fluxo de trabalho/estudo, para aprender mais rápido, resolver melhor e entregar mais.
-
+**Inteligência Artificial** e **Automação** fazem parte do meu fluxo de trabalho diário, usadas para aprender mais rápido, resolver melhor e entregar com mais qualidade.
 
 > *Aprendo fazendo, erro consertando, evoluo entregando.*
 
