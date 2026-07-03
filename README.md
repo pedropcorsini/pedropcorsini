@@ -17,7 +17,7 @@ São Paulo, SP - Brasil
 
 Estudante de Engenharia de Software na **FIAP**, 2º semestre, construindo na prática desde o primeiro dia.
 
-Trabalho no **Frontend** com **React**, **Vite**, **TypeScript**, **Tailwind**, **JavaScript**, **HTML** e **CSS**, e no **Backend** com **Python**, **Java**, **Supabase** e **SQLite**, sempre buscando entender o sistema como um todo, não só uma camada dele. Atualmente também estou me aprofundando em **Docker**, **Kubernetes** e **AWS**, expandindo minha visão para infraestrutura e deploy em escala.
+Trabalho no **Frontend** com **React**, **Vite**, **TypeScript**, **Tailwind CSS** e **Next.js**, e no **Backend** com **Python**, **FastAPI** ,**PostgreSQL** e **SQL**, sempre buscando entender o sistema como um todo, não só uma camada dele. Atualmente também estou me aprofundando em **Docker**, **Kubernetes** e **AWS**, expandindo minha visão para infraestrutura e deploy em escala.
 
 **Inteligência Artificial** e **Automação** fazem parte do meu fluxo de trabalho diário, usadas para aprender mais rápido, resolver melhor e entregar com mais qualidade.
 
@@ -29,11 +29,11 @@ Trabalho no **Frontend** com **React**, **Vite**, **TypeScript**, **Tailwind**, 
 
 **Frontend**
 
-[![Frontend](https://skillicons.dev/icons?i=react,js,vite,html,css,tailwind,typescript)](https://skillicons.dev)
+[![Frontend](https://skillicons.dev/icons?i=react,js,vite,nextjs,tailwind,typescript)](https://skillicons.dev)
 
 **Backend & Data**
 
-[![Backend](https://skillicons.dev/icons?i=py,supabase,sqlite,java)](https://skillicons.dev)
+[![Backend](https://skillicons.dev/icons?i=py,fastapi,postgresql)](https://skillicons.dev)
 
 **Ferramentas**
 
@@ -45,8 +45,9 @@ Trabalho no **Frontend** com **React**, **Vite**, **TypeScript**, **Tailwind**, 
 
 | Projeto | Descrição | Stack | Status |
 |---------|-----------|-------|--------|
+| [**Sistema de Captação de Leads com Foto**](https://github.com/pedropcorsini/lead-capture-frontend) ([back-end](https://github.com/pedropcorsini/lead-capture-backend)) | Sistema completo de captação de leads para eventos: cadastro em 2 etapas, foto com moldura em tempo real, geração de card com QR code para download e painel admin para gerenciar os leads. | Next.js, TypeScript, Tailwind CSS, FastAPI, PostgreSQL, AWS S3 | ✅ Concluído |
 | [**Macro Tracker**](https://github.com/pedropcorsini/macro-tracker) | Dashboard para controle de macronutrientes - projeto pessoal. | React, Vite, Tailwind CSS, Supabase | 🔄 Em desenvolvimento |
-| Projetos pessoais não publicados | Projetos utilizados para fins de aprendizado e financeiro | Java, Python, React, Vite, Docker e Automações | 🔄 Em desenvolvimento |
+| Projetos pessoais não publicados | Projetos utilizados para fins de aprendizado e financeiro | Java, Python, React, Vite, AWS e Automações | 🔄 Em desenvolvimento |
 ---
 
 ## 📊 GitHub Stats
