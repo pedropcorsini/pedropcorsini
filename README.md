@@ -46,7 +46,7 @@ Trabalho no **Frontend** com **React**, **Vite**, **TypeScript**, **Tailwind CSS
 | Projeto | Descrição | Stack | Status |
 |---------|-----------|-------|--------|
 | [**Sistema de Captação de Leads com Foto**](https://github.com/pedropcorsini/lead-capture-frontend) ([back-end](https://github.com/pedropcorsini/lead-capture-backend)) | Sistema completo de captação de leads para eventos: cadastro em 2 etapas, foto com moldura em tempo real, geração de card com QR code para download e painel admin para gerenciar os leads. | Next.js, TypeScript, Tailwind CSS, FastAPI, PostgreSQL, AWS S3 | ✅ Concluído |
-| [**Macro Tracker**](https://github.com/pedropcorsini/macro-tracker) | Dashboard para controle de macronutrientes - projeto pessoal. | React, Vite, Tailwind CSS, Supabase | 🔄 Em desenvolvimento |
+| [**Macro Tracker**](https://github.com/pedropcorsini/macro-tracker) | Plataforma web completa de nutrição diária: registro de refeições com busca em 300k+ alimentos (API USDA), controle de macros em tempo real, hidratação, gráficos semanais/mensais, calendário de histórico e autenticação via Supabase. | React, Vite, Tailwind CSS, Supabase, USDA API, i18next | 🔄 Em desenvolvimento |
 | Projetos pessoais não publicados | Projetos utilizados para fins de aprendizado e financeiro | Java, Python, React, Vite, AWS e Automações | 🔄 Em desenvolvimento |
 ---
 
