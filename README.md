@@ -17,7 +17,7 @@ São Paulo, SP - Brasil
 
 Estudante de Engenharia de Software na **FIAP**, 2º semestre, construindo na prática desde o primeiro dia.
 
-Trabalho no **Frontend** com **React**, **Vite**, **TypeScript**, **Tailwind CSS** e **Next.js**, e no **Backend** com **Python**, **FastAPI** ,**PostgreSQL** e **SQL**, sempre buscando entender o sistema como um todo, não só uma camada dele. Atualmente também estou me aprofundando em **Docker**, **Kubernetes** e **AWS**, expandindo minha visão para infraestrutura e deploy em escala.
+Trabalho no **Frontend** com **React**, **Vite**, **TypeScript**, **Tailwind CSS** e **Next.js**, e no **Backend** com **Python**, **FastAPI**, **PostgreSQL** e **SQL**, sempre buscando entender o sistema como um todo, não só uma camada dele. Atualmente também estou me aprofundando em **Docker**, **Kubernetes** e **AWS**, expandindo minha visão para infraestrutura e deploy em escala.
 
 **Inteligência Artificial** e **Automação** fazem parte do meu fluxo de trabalho diário, usadas para aprender mais rápido, resolver melhor e entregar com mais qualidade.
 
