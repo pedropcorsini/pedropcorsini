@@ -7,7 +7,6 @@
 São Paulo, SP - Brasil
 
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/pedropassoscorsini/)
-[![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/pedropcorsini)
 [![Instagram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/pedrocrps/)
 [![E-mail](https://skillicons.dev/icons?i=gmail)](mailto:pedro.pcorsini@gmail.com)
 
