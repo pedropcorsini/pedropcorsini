@@ -59,6 +59,4 @@ Trabalho no **Frontend** com **React**, **Vite**, **TypeScript**, **Tailwind CSS
 
 <div align="center">
 
-*Aprendendo, construindo e melhorando a cada commit.*
-
 </div>
