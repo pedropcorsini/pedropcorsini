@@ -2,7 +2,7 @@
 
 # Pedro Passos Corsini
 
-**Estudante de Engenharia de Software · IA, DevOps e Desenvolvimento Full Stack**
+**Estudante de Engenharia de Software · Desenvolvimento Full Stack e DevOps**
 
 São Paulo, SP - Brasil
 
