@@ -36,7 +36,7 @@ Trabalho no **Frontend** com **React**, **Vite**, **TypeScript**, **Tailwind CSS
 
 **Ferramentas**
 
-[![Tools](https://skillicons.dev/icons?i=git,github,vercel,vscode,idea)](https://skillicons.dev)
+[![Tools](https://skillicons.dev/icons?i=git,github,vercel,vscode,idea,docker)](https://skillicons.dev)
 
 ---
 
