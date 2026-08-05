@@ -1,62 +1,34 @@
-<div align="center">
-
 # Pedro Passos Corsini
 
-**Estudante de Engenharia de Software · Desenvolvimento Full Stack e DevOps**
+**`Software Engineering Student`**
 
-São Paulo, SP - Brasil
-
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/pedropassoscorsini/)
-[![Instagram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/pedrocrps/)
-[![E-mail](https://skillicons.dev/icons?i=gmail)](mailto:pedro.pcorsini@gmail.com)
-
-</div>
+Software Engineering student at FIAP (2nd semester) with hands-on experience building full-stack web applications end to end, from React and Next.js interfaces to FastAPI and PostgreSQL backends. Growing exposure to Docker, Kubernetes, and AWS for deployment and infrastructure. Shipped real projects including a lead capture system with real-time photo processing and QR code generation, and a nutrition tracking platform built on a 300k+ food database. Currently looking for a first internship in fullstack development or DevOps.
 
 ---
 
-Estudante de Engenharia de Software na **FIAP**, 2º semestre, construindo na prática desde o primeiro dia.
+### 🧰 Languages and Tools
 
-Trabalho no **Frontend** com **React**, **Vite**, **TypeScript**, **Tailwind CSS** e **Next.js**, e no **Backend** com **Python**, **FastAPI**, **PostgreSQL** e **SQL**, sempre buscando entender o sistema como um todo, não só uma camada dele. Atualmente também estou me aprofundando em **Docker**, **Kubernetes** e **AWS**, expandindo minha visão para infraestrutura e deploy em escala.
-
-**Inteligência Artificial** e **Automação** fazem parte do meu fluxo de trabalho diário, usadas para aprender mais rápido, resolver melhor e entregar com mais qualidade.
-
-> *Aprendo fazendo, erro consertando, evoluo entregando.*
-
----
-
-## Tech Stack
-
-**Frontend**
-
-[![Frontend](https://skillicons.dev/icons?i=react,js,vite,nextjs,tailwind,typescript)](https://skillicons.dev)
-
-**Backend & Data**
-
-[![Backend](https://skillicons.dev/icons?i=py,fastapi,postgresql)](https://skillicons.dev)
-
-**Ferramentas**
-
-[![Tools](https://skillicons.dev/icons?i=git,github,vercel,vscode,idea,docker)](https://skillicons.dev)
+<img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
+<img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
+<img align="left" alt="Vite" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vitejs/vitejs-original.svg"/>
+<img align="left" alt="Next.js" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg"/>
+<img align="left" alt="Tailwind CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg"/>
+<img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"/>
+<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
+<img align="left" alt="FastAPI" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg"/>
+<img align="left" alt="PostgreSQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"/>
+<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
+<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/>
+<img align="left" alt="Vercel" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg"/>
+<img align="left" alt="VS Code" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/>
+<img align="left" alt="IntelliJ IDEA" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg"/>
+<img align="left" alt="Docker" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"/>
+<br />
 
 ---
 
-### 🚀 Projetos em Destaque
+**Contact:**
 
-| Projeto | Descrição | Stack | Status |
-|---------|-----------|-------|--------|
-| [**Sistema de Captação de Leads com Foto**](https://github.com/pedropcorsini/lead-capture-frontend) ([back-end](https://github.com/pedropcorsini/lead-capture-backend)) | Sistema completo de captação de leads para eventos: cadastro em 2 etapas, foto com moldura em tempo real, geração de card com QR code para download e painel admin para gerenciar os leads. | Next.js, TypeScript, Tailwind CSS, FastAPI, PostgreSQL, AWS S3 | ✅ Concluído |
-| [**Macro Tracker**](https://github.com/pedropcorsini/macro-tracker) | Plataforma web completa de nutrição diária: registro de refeições com busca em 300k+ alimentos (API USDA), controle de macros em tempo real, hidratação, gráficos semanais/mensais, calendário de histórico e autenticação via Supabase. | React, Vite, Tailwind CSS, Supabase, USDA API, i18next | 🔄 Em desenvolvimento |
-| Projetos pessoais não publicados | Projetos utilizados para fins de aprendizado e financeiro | Java, Python, React, Vite, AWS e Automações | 🔄 Em desenvolvimento |
----
-
-## 📊 GitHub Stats
-<p align="center">
-  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=pedropcorsini&theme=dark" />
-  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=pedropcorsini&theme=dark" />
-</p>
-
-<!-- --- -->
-
-<div align="center">
-
-</div>
+<img src="https://skillicons.dev/icons?i=gmail" width="20" height="20" alt="Email"/> [pedro.pcorsini@gmail.com](mailto:pedro.pcorsini@gmail.com)<br>
+<img src="https://skillicons.dev/icons?i=linkedin" width="20" height="20" alt="LinkedIn"/> [LinkedIn](https://www.linkedin.com/in/pedropassoscorsini/)<br>
+<img src="https://skillicons.dev/icons?i=instagram" width="20" height="20" alt="Instagram"/> [Instagram](https://www.instagram.com/pedrocrps/)
