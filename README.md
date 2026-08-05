@@ -29,6 +29,5 @@ Software Engineering student at FIAP (2nd semester) with hands-on experience bui
 
 **Contact:**
 
-<img src="https://skillicons.dev/icons?i=gmail" width="20" height="20" alt="Email"/> [pedro.pcorsini@gmail.com](mailto:pedro.pcorsini@gmail.com)<br>
-<img src="https://skillicons.dev/icons?i=linkedin" width="20" height="20" alt="LinkedIn"/> [LinkedIn](https://www.linkedin.com/in/pedropassoscorsini/)<br>
-<img src="https://skillicons.dev/icons?i=instagram" width="20" height="20" alt="Instagram"/> [Instagram](https://www.instagram.com/pedrocrps/)
+📧 [pedro.pcorsini@gmail.com](mailto:pedro.pcorsini@gmail.com) <br>
+💼 [LinkedIn](https://www.linkedin.com/in/pedropassoscorsini/)
