@@ -2,7 +2,7 @@
 
 **`Software Engineering Student`**
 
-Software Engineering student at FIAP (2nd semester) with hands-on experience building full-stack web applications end to end, from React and Next.js interfaces to FastAPI and PostgreSQL backends. Growing exposure to Docker, Kubernetes, and AWS for deployment and infrastructure. Shipped real projects including a lead capture system with real-time photo processing and QR code generation, and a nutrition tracking platform built on a 300k+ food database. Currently looking for a first internship in fullstack development or DevOps.
+Software Engineering student at FIAP (2nd semester) with hands-on experience building full-stack web applications end to end, from React and Next.js interfaces to Python backends with FastAPI and Django, and PostgreSQL databases. Currently building skills in Docker, Kubernetes, and AWS for deployment and infrastructure. Now seeking a first internship in fullstack development or DevOps.
 
 ---
 
@@ -16,6 +16,7 @@ Software Engineering student at FIAP (2nd semester) with hands-on experience bui
 <img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"/>
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
 <img align="left" alt="FastAPI" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg"/>
+<img align="left" alt="Django" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg"/>
 <img align="left" alt="PostgreSQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"/>
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/>
