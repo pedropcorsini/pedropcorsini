@@ -2,7 +2,7 @@
 
 **`Software Engineering Student`**
 
-Software Engineering student at FIAP (2nd semester) with hands-on experience building full-stack web applications end to end, from React and Next.js interfaces to Python backends with FastAPI and Django, PostgreSQL and MongoDB databases. Currently building skills in Docker, Kubernetes, and AWS for deployment and infrastructure. Now seeking a first internship in fullstack development or DevOps.
+Software Engineering student at FIAP (2nd semester) with hands-on experience building backend systems end to end, from REST APIs in Python with FastAPI and Django to relational data modeling in PostgreSQL and scheduled background jobs with Celery. Currently building skills in Docker, Kubernetes, and AWS for deployment and infrastructure. Now seeking a first internship in backend development or DevOps.
 
 ---
 
