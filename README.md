@@ -26,10 +26,10 @@ Software Engineering student at FIAP (2nd semester) with hands-on experience bui
 
 ---
 
-### Commercial projects (private repo):
+### Commercial projects:
 
-- www.tianenahospedagem.com
-
+- www.tianenahospedagem.com (public repo)
+- www.elohemo.com (private repo)
 ---
 
 **Contact:**
