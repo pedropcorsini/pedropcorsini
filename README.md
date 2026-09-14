@@ -2,7 +2,7 @@
 
 **`Software Engineering Student`**
 
-I am a Software Engineering student at FIAP (2nd semester) with hands-on experience in backend development from Python REST APIs using FastAPI and Django to relational data modeling in PostgreSQL and MongoDB and scheduled background tasks with Celery. Alongside my studies, I work as a freelancer developing websites and systems. I am currently building skills in Docker, Kubernetes, and AWS for deployment and infrastructure, t
+I am a Software Engineering student at FIAP (2nd semester) with hands-on experience in backend development from Python REST APIs using FastAPI and Django to relational data modeling in PostgreSQL and MongoDB and scheduled background tasks with Celery. Alongside my studies, I work as a freelancer developing websites and systems. I am currently building skills in Docker, Kubernetes, and AWS for deployment and infrastructure.
 
 ---
 
