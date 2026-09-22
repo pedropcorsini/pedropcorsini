@@ -6,7 +6,7 @@ I am a Software Engineering student at FIAP (2nd semester) with hands-on experie
 
 ---
 
-### Languages and Tools
+### Languages and tools
 
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
 <img align="left" alt="FastAPI" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg"/>
