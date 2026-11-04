@@ -26,7 +26,7 @@ I am a Software Engineering student at FIAP (2nd semester) with hands-on experie
 
 ---
 
-### Commercial projects:
+### Commercial sites:
 
 - www.tianenahospedagem.com (public repo)
 - www.elohemo.com (private repo)
