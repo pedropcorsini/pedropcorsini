@@ -28,10 +28,10 @@ I am a Software Engineering student at FIAP (2nd semester) with hands-on experie
 
 ### Commercial sites:
 
-- www.tianenahospedagem.com (public repo)
-- www.elohemo.com (private repo)
-- www.renatamendesoftalmovet.com.br (private repo - in development)
-- https://tati-gastro.vercel.app/ (private repo - in development)
+- www.tianenahospedagem.com 
+- www.elohemo.com 
+- www.renatamendesoftalmovet.com.br 
+- https://tati-gastro.vercel.app/ 
 ---
 
 **Contact:**
