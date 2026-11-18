@@ -30,7 +30,7 @@ I am a Software Engineering student at FIAP (2nd semester) with hands-on experie
 
 - www.tianenahospedagem.com (public repo)
 - www.elohemo.com (private repo)
-- https://renata-oftalmo.vercel.app/ (private repo - in development)
+- www.renatamendesoftalmovet.com.br (private repo - in development)
 - https://tati-gastro.vercel.app/ (private repo - in development)
 ---
 
