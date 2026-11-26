@@ -28,7 +28,7 @@ I am a Software Engineering student at FIAP (2nd semester) with hands-on experie
 
 ### Commercial sites:
 
-- www.tianenahospedagem.com 
+- www.tianenahospedagem.com (lp for users and painel/dashboard for admins)
 - www.elohemo.com 
 - www.renatamendesoftalmovet.com.br 
 - www.transporteexecutivorc.com.br
